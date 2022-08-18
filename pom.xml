@@ -44,6 +44,12 @@
             <version>1.18.24</version>
         </dependency>
 
+        <dependency>
+            <groupId>io.github.devlibx.easy</groupId>
+            <artifactId>helper</artifactId>
+            <version>0.0.77</version>
+        </dependency>
+
     </dependencies>
 
     <build>
